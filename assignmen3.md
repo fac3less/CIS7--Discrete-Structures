@@ -1,6 +1,8 @@
 Part1:
 Math is easy so homework is done and its sunny so camping is fun
-(M -> H)^(S -> C)
+
+(S ^ C) -> ( M v C)
+
 
 Part 2:
 (¬B -> ¬A) -> (( ¬B -> A) -> B)
